@@ -1,0 +1,3 @@
+[submodule "lotuss"]
+	path = lotuss
+	url = https://github.com/filecoin-project/lotus.git
